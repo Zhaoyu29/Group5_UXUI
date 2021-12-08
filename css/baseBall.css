@@ -1,0 +1,27 @@
+.three_box {
+  display: flex;
+  justify-content: space-between;
+}
+.three_box .five_info_box_item {
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+}
+.three_box .article {
+  padding: 0;
+}
+.padding_right_300 {
+  padding-right: 370px;
+}
+.margin_top_50 {
+  margin-top: 50px;
+}
+.con2_box .img_2 {
+  width: auto;
+}
+.con2_box .lastImg {
+  width: 45%;
+}
+.con2_box .paddingNo {
+  padding: 0;
+}
